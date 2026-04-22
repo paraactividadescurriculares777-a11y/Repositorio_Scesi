@@ -1,6 +1,7 @@
 #Trabajo Individual
 
-Dana Sainz Rubin de Celis 
+Dana Sainz Rubin de Celis
+ 
 ##Clase 1
 ###Que es GIT?
 Es un sistema que nos permite controlar Versiones permitiendonos guardar 
